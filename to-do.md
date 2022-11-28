@@ -4,3 +4,5 @@
 * Stage
 * Commit
 * Push
+* Make changes to to-do list online, then stage and commit online
+* Pull them back to *local* repo
